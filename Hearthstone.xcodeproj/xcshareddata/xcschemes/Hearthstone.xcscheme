@@ -20,6 +20,34 @@
                ReferencedContainer = "container:Hearthstone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "401016E81CD5EA6100130D7C"
+               BuildableName = "HearthstoneTests.xctest"
+               BlueprintName = "HearthstoneTests"
+               ReferencedContainer = "container:Hearthstone.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "401016F31CD5EA6100130D7C"
+               BuildableName = "HearthstoneUITests.xctest"
+               BlueprintName = "HearthstoneUITests"
+               ReferencedContainer = "container:Hearthstone.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction

@@ -27,6 +27,7 @@
 		4010171C1CD67CB400130D7C /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4010171B1CD67CB400130D7C /* Session.swift */; };
 		4010171F1CD67D7B00130D7C /* Info.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4010171E1CD67D7B00130D7C /* Info.swift */; };
 		401017221CD680A500130D7C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401017211CD680A500130D7C /* Constants.swift */; };
+		4066D3481CDA244200289EC1 /* ReleaseNotes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4066D3471CDA244200289EC1 /* ReleaseNotes.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		4010171B1CD67CB400130D7C /* Session.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 		4010171E1CD67D7B00130D7C /* Info.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Info.swift; sourceTree = "<group>"; };
 		401017211CD680A500130D7C /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		4066D3471CDA244200289EC1 /* ReleaseNotes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReleaseNotes.txt; sourceTree = "<group>"; };
 		6B2304FE577763CC68123885 /* Pods-Hearthstone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hearthstone.release.xcconfig"; path = "Pods/Target Support Files/Pods-Hearthstone/Pods-Hearthstone.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +108,7 @@
 		401016CC1CD5EA6100130D7C = {
 			isa = PBXGroup;
 			children = (
+				4066D3471CDA244200289EC1 /* ReleaseNotes.txt */,
 				401016D71CD5EA6100130D7C /* Hearthstone */,
 				401016EC1CD5EA6100130D7C /* HearthstoneTests */,
 				401016F71CD5EA6100130D7C /* HearthstoneUITests */,
@@ -317,6 +320,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4066D3481CDA244200289EC1 /* ReleaseNotes.txt in Resources */,
 				401016E31CD5EA6100130D7C /* LaunchScreen.storyboard in Resources */,
 				401016E01CD5EA6100130D7C /* Assets.xcassets in Resources */,
 				401016DE1CD5EA6100130D7C /* Main.storyboard in Resources */,
